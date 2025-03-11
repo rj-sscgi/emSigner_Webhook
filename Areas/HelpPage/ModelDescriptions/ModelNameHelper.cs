@@ -3,7 +3,7 @@ using System.Globalization;
 using System.Linq;
 using System.Reflection;
 
-namespace emSigner_Webhook.Areas.HelpPage.ModelDescriptions
+namespace emsigner_webhook.Areas.HelpPage.ModelDescriptions
 {
     internal static class ModelNameHelper
     {

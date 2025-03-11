@@ -2,9 +2,9 @@ using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Net.Http.Headers;
 using System.Web.Http.Description;
-using emSigner_Webhook.Areas.HelpPage.ModelDescriptions;
+using emsigner_webhook.Areas.HelpPage.ModelDescriptions;
 
-namespace emSigner_Webhook.Areas.HelpPage.Models
+namespace emsigner_webhook.Areas.HelpPage.Models
 {
     /// <summary>
     /// The model that represents an API displayed on the help page.

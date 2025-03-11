@@ -1,6 +1,6 @@
 using System.Collections.ObjectModel;
 
-namespace emSigner_Webhook.Areas.HelpPage.ModelDescriptions
+namespace emsigner_webhook.Areas.HelpPage.ModelDescriptions
 {
     public class ComplexTypeModelDescription : ModelDescription
     {

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web.Http;
 
-namespace emSigner_Webhook
+namespace emsigner_webhook
 {
     public static class WebApiConfig
     {

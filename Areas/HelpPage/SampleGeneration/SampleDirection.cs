@@ -1,4 +1,4 @@
-namespace emSigner_Webhook.Areas.HelpPage
+namespace emsigner_webhook.Areas.HelpPage
 {
     /// <summary>
     /// Indicates whether the sample is used for request or response

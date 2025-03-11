@@ -1,6 +1,6 @@
 using System;
 
-namespace emSigner_Webhook.Areas.HelpPage.ModelDescriptions
+namespace emsigner_webhook.Areas.HelpPage.ModelDescriptions
 {
     /// <summary>
     /// Use this attribute to change the name of the <see cref="ModelDescription"/> generated for a type.

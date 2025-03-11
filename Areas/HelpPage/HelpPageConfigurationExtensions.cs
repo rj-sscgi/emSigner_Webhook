@@ -11,10 +11,10 @@ using System.Net.Http.Headers;
 using System.Web.Http;
 using System.Web.Http.Controllers;
 using System.Web.Http.Description;
-using emSigner_Webhook.Areas.HelpPage.ModelDescriptions;
-using emSigner_Webhook.Areas.HelpPage.Models;
+using emsigner_webhook.Areas.HelpPage.ModelDescriptions;
+using emsigner_webhook.Areas.HelpPage.Models;
 
-namespace emSigner_Webhook.Areas.HelpPage
+namespace emsigner_webhook.Areas.HelpPage
 {
     public static class HelpPageConfigurationExtensions
     {

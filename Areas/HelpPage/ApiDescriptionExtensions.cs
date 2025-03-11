@@ -3,7 +3,7 @@ using System.Text;
 using System.Web;
 using System.Web.Http.Description;
 
-namespace emSigner_Webhook.Areas.HelpPage
+namespace emsigner_webhook.Areas.HelpPage
 {
     public static class ApiDescriptionExtensions
     {

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("emSigner_Webhook")]
+[assembly: AssemblyTitle("emsigner_webhook")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("emSigner_Webhook")]
+[assembly: AssemblyProduct("emsigner_webhook")]
 [assembly: AssemblyCopyright("Copyright ©  2025")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("b9c6ab6f-678a-4a58-9866-9686b4dc5e6b")]
+[assembly: Guid("91fd361f-f531-46aa-b3f4-2124e0d67ae5")]
 
 // Version information for an assembly consists of the following four values:
 //

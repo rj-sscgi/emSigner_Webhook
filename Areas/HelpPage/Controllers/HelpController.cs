@@ -1,10 +1,10 @@
 using System;
 using System.Web.Http;
 using System.Web.Mvc;
-using emSigner_Webhook.Areas.HelpPage.ModelDescriptions;
-using emSigner_Webhook.Areas.HelpPage.Models;
+using emsigner_webhook.Areas.HelpPage.ModelDescriptions;
+using emsigner_webhook.Areas.HelpPage.Models;
 
-namespace emSigner_Webhook.Areas.HelpPage.Controllers
+namespace emsigner_webhook.Areas.HelpPage.Controllers
 {
     /// <summary>
     /// The controller that will handle requests for the help page.

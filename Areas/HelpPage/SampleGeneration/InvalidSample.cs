@@ -1,6 +1,6 @@
 using System;
 
-namespace emSigner_Webhook.Areas.HelpPage
+namespace emsigner_webhook.Areas.HelpPage
 {
     /// <summary>
     /// This represents an invalid sample on the help page. There's a display template named InvalidSample associated with this class.

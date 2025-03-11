@@ -1,7 +1,7 @@
 using System;
 using System.Reflection;
 
-namespace emSigner_Webhook.Areas.HelpPage.ModelDescriptions
+namespace emsigner_webhook.Areas.HelpPage.ModelDescriptions
 {
     public interface IModelDocumentationProvider
     {

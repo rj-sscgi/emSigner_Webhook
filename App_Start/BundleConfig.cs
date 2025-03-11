@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace emSigner_Webhook
+namespace emsigner_webhook
 {
     public class BundleConfig
     {
